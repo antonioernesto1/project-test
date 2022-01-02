@@ -12,6 +12,7 @@ namespace Aula5 {
             foreach(int obj in lista) {
                 Console.WriteLine(obj);
             }
+            Console.WriteLine("Lista concluida");
         }
     }
 }
