@@ -13,7 +13,8 @@ namespace Aula5 {
             };
             Console.WriteLine("Order ID: " + order.Id);
             Console.WriteLine("Order time: " + order.Moment);
-            Console.WriteLine("Order status: " + order.Status);            
+            Console.WriteLine("Order status: " + order.Status);
+
         }
     }
 }
